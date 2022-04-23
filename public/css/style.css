@@ -1,3 +1,7 @@
+body{
+    background-color: #7f8c8d;
+}
+
 .vertical-center {
     min-height: 100vh;
     margin: 0;
